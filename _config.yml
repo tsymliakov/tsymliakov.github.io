@@ -1,0 +1,10 @@
+title: Python, highload, мемы
+email: denis.tsym@mail.ru
+description: >-
+  Блог Цымлякова Дениса в качестве места, куда мог бы писать Цымляков Денис.
+github_username:  tsymliakov
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
