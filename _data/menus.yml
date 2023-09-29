@@ -1,0 +1,19 @@
+- title: Домашняя страница
+  url: /
+  external: false
+
+- title: Все посты
+  url: /archive/
+  external: false
+
+- title: О блоге
+  url: /about/
+  external: false # set true if you using external link, see below
+
+- title: Мой github
+  url: https://github.com/tsymliakov
+  external: true
+# Example:
+# - title: github
+#   url: https://github.com/piharpi/jekyll-klise
+#   external: true
