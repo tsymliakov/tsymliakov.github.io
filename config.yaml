@@ -1,5 +1,5 @@
 languageCode: "ru-ru"
-baseUrl: "."
+baseUrl: "https://tsymliakov.github.io"
 title: "Tsymliakov Denis"
 theme: "anubis"
 paginate: 10
