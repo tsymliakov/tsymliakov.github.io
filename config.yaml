@@ -1,4 +1,4 @@
-baseUrl: "https://tsymliakov.github.io"
+baseURL: "https://tsymliakov.github.io/"
 title: Tsymliakov
 paginate: 5
 theme: PaperMod
