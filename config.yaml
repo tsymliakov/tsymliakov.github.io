@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Цымляков Денис
-  description: "ExampleSite description"
+  description: "Tsymliakov D. blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Цымляков Д.
   # author: ["Me", "You"] # multiple authors
