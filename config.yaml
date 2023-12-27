@@ -80,7 +80,7 @@ params:
     - name: telegram
       url: https://t.me/tsymliakov_blog
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/tsymliakov"
     - name: email
       url: "denis.tsym@mail.ru"
 
