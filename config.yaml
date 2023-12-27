@@ -62,8 +62,8 @@ params:
     title: Цымляков Денис
     subtitle: "Блог backend-python разработчика"
     imageUrl: "/avatar.jpg"
-    imageWidth: 170
-    imageHeight: 170
+    imageWidth: 175
+    imageHeight: 175
     imageTitle: avatar
     buttons:
       - name: Посты
