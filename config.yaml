@@ -82,7 +82,7 @@ params:
     - name: github
       url: "https://github.com/tsymliakov"
     - name: email
-      url: "denis.tsym@mail.ru"
+      url: "mailto:denis.tsym@mail.ru"
 
   analytics:
     google:
