@@ -1,5 +1,5 @@
 +++
-title = 'Indistractable_note_1'
+title = 'Неотвлекаемые Нира Эяля и техника 10 минут'
 date = 2024-01-15T21:39:27+03:00
 draft = false
 +++
